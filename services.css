@@ -1,0 +1,17 @@
+.myDiv {
+    border: 5px outset yellow;
+    background-color: #b9ebc9;    
+    text-align: center;
+    font-family: 'nazanin';
+    font-size: x-large;
+    line-height: 40pt; 
+  }
+h1 {
+    font-family: 'nazanin';
+    text-align: center;
+    font-size: xx-large;
+}
+  @font-face {
+    font-family: nazanin;
+    src: url(B-NAZANIN.TTF);
+  }
